@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+#img{
+    width: 100px;
+    height:100px;
+    border-radius:50%;
+}
+#nav2{
+    height:80px;
+}
+
+#nav1{
+    height:50px;  
+}
+.px-0 {
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+#carouselExampleDark{
+    margin-top: 0;
+}
+img{
+    height:500px;
+}
+      
+#banner{
+    background-image: url('img/ms.jpg');
+    
+}
+.navbar-nav{
+    margin-left:50px;
+}
